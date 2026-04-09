@@ -38,3 +38,17 @@ python -m segmentation.predict \
 ```
 
 Prediction saves a binary mask and an overlay for each image.
+
+## Example Output
+
+Original input (`Abyssinian_1.jpg`):
+
+![Original Abyssinian_1](data/oxford-iiit-pet/images/Abyssinian_1.jpg)
+
+Predicted binary mask:
+
+![Predicted mask for Abyssinian_1](outputs/preds/Abyssinian_1_mask.png)
+
+Predicted overlay:
+
+![Predicted overlay for Abyssinian_1](outputs/preds/Abyssinian_1_overlay.png)
