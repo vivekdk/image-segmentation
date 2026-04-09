@@ -16,7 +16,7 @@ model:
 optimizer:
   lr: 0.001
   weight_decay: 0.0001
-  epochs: 1
+  epochs: 25
 
 training:
   device: auto
