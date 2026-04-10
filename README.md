@@ -1,4 +1,4 @@
-# Image Segmentation From Scratch
+# Image Segmentation
 
 This project trains a binary semantic segmentation model in PyTorch using a custom U-Net and the Oxford-IIIT Pet segmentation dataset.
 
