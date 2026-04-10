@@ -2,6 +2,8 @@
 
 This project trains a binary semantic segmentation model in PyTorch using a custom U-Net and the Oxford-IIIT Pet segmentation dataset.
 
+For a high-level overview of the system design and runtime flow, see [Architecture.md](Architecture.md).
+
 ## Setup
 
 ```bash
